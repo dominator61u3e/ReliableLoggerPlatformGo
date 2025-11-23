@@ -1,0 +1,2 @@
+# ReliableLoggerPlatformGo
+Python script
